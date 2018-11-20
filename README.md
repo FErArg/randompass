@@ -7,12 +7,12 @@ Copy the index.php file to de root directory in your web server, it will show yo
 If you need more characters in the string, you can use the "?i=50" so get a new column with 10 string examples with 50 chactares, you can personalize the number of characters from 1 to infinitive ;-).
 
 
-Example: 
+<b>Example:</b>
 
 https://localhost/?i=50
 
 
-Reponse:
+<b>Reponse:</b>
 
 Caracteres 50
 
@@ -39,4 +39,4 @@ gd+;#Xrk:.)%AZhc%S.OP}Qg57%+cc{jf\[[Engp{agyZoBQ7l
 
 
 
-PD: Very slow response or no response if you use "?i=100000000" or more, ;-) !!!!
+<b>PD: Very slow response or no response if you use "?i=100000000" or more, ;-) !!!!</b>
